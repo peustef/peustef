@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Peu</h1>
-<h3 align="center">Desenvolvedor Frontend do Rio de Janeiro, Brasil</h3>
+<h3 align="center">Desenvolvedor Fullstack do Rio de Janeiro, Brasil</h3>
 
-- 🌱 No momento estudando Backend **Na Labenu_**
+- 🌱 No momento estudando desenvolvimento **Na Labenu_**
 
 - 📫 Entre em contato **peustefanis@gmail.com**
 
