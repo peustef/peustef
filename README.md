@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Peu</h1>
 <h3 align="center">Desenvolvedor Fullstack do Rio de Janeiro, Brasil</h3>
 
-- 🌱 No momento estudando desenvolvimento **Na Labenu_**
+- 🌱 No momento em busca de uma oportunidade de trabalho
 
 - 📫 Entre em contato **peustefanis@gmail.com**
 
